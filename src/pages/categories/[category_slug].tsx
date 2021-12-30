@@ -57,7 +57,7 @@ export default function CategoryList({ restaurants }: ICategoryProps) {
             <>
               <ul>
                 {restaurants?.map(restaurant => (
-                  <li key={restaurant.title}>
+                  <li key={restaurant.id}>
                     <Restaurant restaurantData={restaurant} />
                   </li>
                 ))}
