@@ -12,6 +12,7 @@ interface ICategory {
 export default function Categories(): JSX.Element {
   const { data } = useAxios<ICategory[]>('categories');
 
+  console.log(`mcm data ${data}`);
   if (!data) {
     return (
       <Container className="scroll-box">
@@ -28,6 +29,7 @@ export default function Categories(): JSX.Element {
         {data?.map(category => (
           <main role="listitem" key={category.title}>
             <figure>
+
               <Link href={`categories/${category.title}`}>
                 <img src={category.image_url} alt={category.title} />
               </Link>

@@ -78,5 +78,6 @@
       "src/components/pages/**/*.tsx",
       "src/hooks/*.tsx"
     ]
-  }
+  },
+  "proxy": "http://localhost:3333"
 }

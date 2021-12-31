@@ -1,19 +1,19 @@
 {
   "carousel": [
     {
-      "image_url":"https://static-images.ifood.com.br/image/upload//discoveries/mercado-entregagratis.png",
+      "image_url":"https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE",
       "alt":"Mercado"
     },
     {
-      "image_url":"https://static-images.ifood.com.br/image/upload//discoveries/ifood_capas_rest_entrega_gratis_abr_20.png",
+      "image_url":"https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE",
       "alt":"Entrega Grátis"
     },
     {
-      "image_url":"https://static-images.ifood.com.br/image/upload//discoveries/20C1_abb.png",
+      "image_url":"https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE",
       "alt":"Descobertas"
     },
     {
-      "image_url":"https://static-images.ifood.com.br/image/upload//discoveries/jul_20_70off.jpg",
+      "image_url":"https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE",
       "alt":"Desconto"
     }
   ],
@@ -21,7 +21,7 @@
     {
       "id": "1",
       "title": "Mcdonald's",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/201810231832_2b3b8c04-73fb-4f23-9c89-b75e538404c6.png",
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE",
       "category": "Lanches",
       "distance": 3.36,
       "start_time": 28,
@@ -31,7 +31,7 @@
     {
       "id": "2",
       "title": "Subway",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/201903142138_7ed60480-4895-4f67-ba3e-edf2366eadb3.png",
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE",
       "category": "Lanches",
       "distance": 1.15,
       "start_time": 15,
@@ -41,7 +41,7 @@
     {
       "id": "3",
       "title": "Burguer King",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/202009301458_d5736924-893e-42b2-89d1-ff37e58abc1e.jpg",
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE",
       "category": "Lanches",
       "distance": 3.3,
       "start_time": 38,
@@ -51,7 +51,7 @@
     {
       "id": "4",
       "title": "Sushi Boulevard",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/c48cbb89-0ddb-48ec-83cd-25946fe8c78f/201908131950_v914_i.png",
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE",
       "category": "Japonesa",
       "distance": 3.76,
       "start_time": 43,
@@ -61,30 +61,40 @@
     {
       "id": "5",
       "title": "Rocky Burguer",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/dbc629b1-71e7-406c-8959-d251540157f5/202007192209_Cywt_.jpeg",
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE",
       "category": "Lanches",
       "distance": 2.74,
       "start_time": 40,
       "end_time": 50,
       "rating": 4.5
+    },
+    {
+      "id": "6",
+      "title": "Mom's touch",
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE",
+      "category": "Korean",
+      "distance": 141,
+      "start_time": 40,
+      "end_time": 78,
+      "rating": 5.0
     }
   ],
   "restaurants": [
     {
       "id": "1",
-      "title": "Mcdonald's",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/201810231832_2b3b8c04-73fb-4f23-9c89-b75e538404c6.png",
+      "title": "hi",
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE",
       "category": "Lanches",
       "distance": 3.36,
       "start_time": 28,
       "end_time": 38,
       "rating": 4.9,
-      "price": "R$ 5.99"
+      "price": "R$ 5232"
     },
     {
       "id": "2",
       "title": "Subway",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/201903142138_7ed60480-4895-4f67-ba3e-edf2366eadb3.png",
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE",
       "category": "Lanches",
       "distance": 1.15,
       "start_time": 15,
@@ -95,7 +105,7 @@
     {
       "id": "3",
       "title": "Milleo Lanches",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/201705232310_49a58116-6536-4a07-9abf-7b97c891c5e7.png",
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE",
       "category": "Lanches",
       "distance": 3.49,
       "start_time": 20,
@@ -106,7 +116,7 @@
     {
       "id": "4",
       "title": "Domino's Pizza",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/201909101956_cc4ae59c-860a-48b4-9fe2-9f3f5840ce5f.png",
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE",
       "category": "Pizza",
       "distance": 3.4,
       "start_time": 40,
@@ -117,7 +127,7 @@
     {
       "id": "5",
       "title": "Habbib's",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/201801241023__HABIBSNAZARE.jpg",
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE",
       "category": "Lanches",
       "distance": 2.97,
       "start_time": 48,
@@ -127,7 +137,7 @@
     {
       "id": "6",
       "title": "Batistão Duque",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/cfa433b7-eed4-4630-998e-c599623b08b3/202003190923_3A3w_i.jpg",
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE",
       "category": "Lanches",
       "distance": 1.8,
       "start_time": 36,
@@ -137,7 +147,7 @@
     {
       "id": "7",
       "title": "Sushi Boulevard",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/c48cbb89-0ddb-48ec-83cd-25946fe8c78f/201908131950_v914_i.png",
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE",
       "category": "Japonesa",
       "distance": 3.76,
       "start_time": 43,
@@ -147,115 +157,132 @@
     {
       "id": "8",
       "title": "Rocky Burguer",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_thumbnail/logosgde/dbc629b1-71e7-406c-8959-d251540157f5/202007192209_Cywt_.jpeg",
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE",
       "category": "Lanches",
       "distance": 2.74,
       "start_time": 40,
       "end_time": 50,
       "rating": 4.5
+    },
+    {
+      "id": "9",
+      "title": "Mom's touch",
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE",
+      "category": "Korean",
+      "distance": 141,
+      "start_time": 40,
+      "end_time": 78,
+      "rating": 5.0,
+      "price": "₩5600"
     }
+
   ],
   "categories": [
     {
       "id": "1",
       "title": "Mercado",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_low/discoveries/groc_icon_alegre.png"
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE"
     },
     {
       "id": "2",
       "title": "Promoções",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_low/discoveries/Promo_cat.png"
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE"
     },
     {
       "id": "3",
       "title": "Vale Refeição",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_low/discoveries/20C1_VR_Test_AB.png"
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE"
     },
     {
       "id": "4",
       "title": "Brasileira",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_low/discoveries/19C1-brasileira-v2.jpg"
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE"
     },
     {
       "id": "5",
       "title": "Saudável",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_low/discoveries/19C1-saudavel-v2.jpg"
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE"
     },
     {
       "id": "6",
       "title": "Marmita",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_low/discoveries/19C1-marmita.jpg"
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE"
     },
     {
       "id": "7",
       "title": "Lanches",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_low/discoveries/19C1-lanches-v2.jpg"
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE"
     },
     {
       "id": "8",
       "title": "Japonesa",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_low/discoveries/19C1-japonesa.jpg"
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE"
     },
     {
       "id": "9",
       "title": "Doces & Bolos",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_low/discoveries/19C1-doces-e-bolos.jpg"
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE"
     },
     {
       "id": "10",
       "title": "Italiana",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_low/discoveries/19C1-italiana.jpg"
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE"
     },
     {
       "id": "11",
       "title": "Carnes",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_low/discoveries/19C1-carnes-v2.jpg"
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE"
     },
     {
       "id": "12",
       "title": "Pizza",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_low/discoveries/19C1-pizza.jpg"
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE"
     },
     {
       "id": "13",
       "title": "Chinesa",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_low/discoveries/19C1-chinesa.jpg"
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE"
+    },
+    {
+      "id": "14",
+      "title": "Korean",
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE"
     }
   ],
   "foods": [
     {
       "id": "1",
-      "title": "Batata Frita",
-      "description": "Batata frita muito massa!",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_high/pratos/dbc629b1-71e7-406c-8959-d251540157f5/201907302128_YXOh_.jpeg",
-      "price": "R$ 16,00"
+      "title": "싸이버거 세트",
+      "description": "군침이 싹도네! 맘스터치 싸이버거! 이게 바로 엄마의 손길이라고~",
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE",
+      "price": "₩5600"
     },
     {
       "id": "2",
       "title": "Batata Frita",
       "description": "Batata frita muito massa!",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_high/pratos/dbc629b1-71e7-406c-8959-d251540157f5/201907302128_YXOh_.jpeg",
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE",
       "price": "R$ 16,00"
     },
     {
       "id": "3",
       "title": "Batata Frita",
       "description": "Batata frita muito massa!",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_high/pratos/dbc629b1-71e7-406c-8959-d251540157f5/201907302128_YXOh_.jpeg",
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE",
       "price": "R$ 16,00"
     },
     {
       "id": "4",
       "title": "Batata Frita",
       "description": "Batata frita muito massa!",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_high/pratos/dbc629b1-71e7-406c-8959-d251540157f5/201907302128_YXOh_.jpeg",
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE",
       "price": "R$ 16,00"
     },
     {
       "id": "5",
       "title": "Batata Frita",
       "description": "Batata frita muito massa!",
-      "image_url": "https://static-images.ifood.com.br/image/upload/t_high/pratos/dbc629b1-71e7-406c-8959-d251540157f5/201907302128_YXOh_.jpeg",
+      "image_url": "https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=http%3A%2F%2Fcfile7.uf.tistory.com%2Fimage%2F24283C3858F778CA2EFABE",
       "price": "R$ 16,00"
     }
   ]

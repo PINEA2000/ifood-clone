@@ -43,7 +43,7 @@ export default class MyDocument extends Document {
           />
           <link
             rel="icon"
-            href="https://www.ifood.com.br/static/images/favicon/ifood/favicon-96x96.png"
+            href="https://img.icons8.com/material-outlined/24/000000/puzzle.png"
           />
         </Head>
 

@@ -74,7 +74,10 @@ export default function CategoryList({ restaurants }: ICategoryProps) {
 export const getServerSideProps: GetServerSideProps<ICategoryProps> = async context => {
   const { category_slug } = context.params;
 
+  console.log(`category_slug [ ${category_slug} ]`);
+
   const response = await api.get(`restaurants?category=${category_slug}`);
+  console.log(`response^^ : ${response.data}  `);
 
   const restaurants = response.data;
 
